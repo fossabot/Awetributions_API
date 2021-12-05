@@ -1,6 +1,7 @@
 # hackernews-async-ts
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6dce034be92946f89d8d21cce0b57c6f)](https://app.codacy.com/gh/shensven/Awetributions_API?utm_source=github.com&utm_medium=referral&utm_content=shensven/Awetributions_API&utm_campaign=Badge_Grade_Settings)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fshensven%2FAwetributions_API.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fshensven%2FAwetributions_API?ref=badge_shield)
 
 [Hacker News](https://news.ycombinator.com/) showcase using typescript && egg
 
@@ -33,3 +34,7 @@ $ npm start
 
 - Node.js 8.x
 - Typescript 2.8+
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fshensven%2FAwetributions_API.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fshensven%2FAwetributions_API?ref=badge_large)
